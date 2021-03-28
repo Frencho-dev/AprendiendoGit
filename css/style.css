@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+.container-target{
+    margin: 40px auto;
+    padding: 20px 40px;
+    background-color: thistle;
+    width: 80%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}

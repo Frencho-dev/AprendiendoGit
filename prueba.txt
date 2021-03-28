@@ -1,0 +1,5 @@
+Hola, mi nombre es David Tlahuapa
+Y quiero aprender git y github para el trabajo profesional
+Me quiero enfocar al desarrllo web
+
+hola soy yo
